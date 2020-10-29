@@ -1,0 +1,23 @@
+Circuit: * C:\Users\nyuru\OneDrive - Shirao.Takuya\Circuitting\LTspiceProject\DistributedConstantCircuitMatchingAnalysis\DistributedConstantCircuit.asc
+
+C65: both pins shorted together -- ignoring.
+.OP point found by inspection.
+
+Date: Thu Oct 29 20:17:55 2020
+Total elapsed time: 1.675 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 11110
+traniter = 11110
+tranpoints = 5556
+accept = 4144
+rejected = 1412
+matrix size = 136
+fillins = 0
+solver = Normal
+Thread vector: 23.1/14.4[2] 24.4/16.3[2] 0.3/2.1[1] 1.1/52.4[1]  2592/500
+Matrix Compiler1: 6.28 KB object code size  3.9/2.8/[2.2]
+Matrix Compiler2: off  [2.2]/4.2/6.1
+
